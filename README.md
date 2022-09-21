@@ -12,7 +12,7 @@
 ### What i do? 
 * I’m a freelancer Software engineer with expertise in the following 
 
-  * Full Stack developer 
+  * Full Stack (web)
   * Automation (bots) 
   * Web scraping 
   * Machine learning 
