@@ -1,6 +1,7 @@
 ### Hi 👋, I'm Micheal
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html"/>
+![example branch parameter](https://github.com/github/docs/actions/workflows/main.yml/badge.svg?branch=feature-1)
 
 ### What i do? 
 * I’m a freelancer Software engineer with expertise in the following 
