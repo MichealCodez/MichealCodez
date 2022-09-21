@@ -35,9 +35,9 @@ Here are some ideas to get you started:
   * Any other thing you want to ask
   
 * 📫 How to reach me
-  * [Website](http://michealdavid.herokuapp.com/ "Named link title")
-  * [Twitter](https://twitter.com/MichealCodes "Named link title")
-  * [WhatsApp](https://wa.me/message/7IHNGJG2O42HF1 "Named link title")
+  * [Website](http://michealdavid.herokuapp.com/)
+  * [Twitter](https://twitter.com/MichealCodes)
+  * [WhatsApp](https://wa.me/message/7IHNGJG2O42HF1)
   
 * ⚡ Fun facts
   * Love playing football if I'm not coding
