@@ -31,8 +31,6 @@ Here are some ideas to get you started:
   * Building big projects in a company with team of developers
   * Building great APIs 
   * Making the world a better place
-  
-* 🤔 I’m looking for employment
 
 * 💬 Ask me about 
   * Django
