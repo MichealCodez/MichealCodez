@@ -9,8 +9,8 @@
 ### What do I do? 
 * I’m a freelancer Software engineer with expertise in the following 
 
-  * Full Stack (web)
-  * Automation (bots) 
+  * Full Stack dev
+  * Automation
   * Web scraping 
   * Machine learning 
 
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
   * Any other thing you want to ask
   
 * 📫 How to reach me
-  * [Website](http://michealdavid.herokuapp.com/)
+  * [Linktr](https://linktr.ee/michealcodes)
   * [Twitter](https://twitter.com/MichealCodes)
   * [WhatsApp](https://wa.me/message/7IHNGJG2O42HF1)
   
