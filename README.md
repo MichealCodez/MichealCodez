@@ -22,20 +22,19 @@ Here are some ideas to get you started:
 --> 
 
 * 🔭 I’m currently working on 
-  * VOTE, a platform I'm building for small and medium organizations to conduct internal elections electronically.
+  * Autotell 
   
 * 🌱 I’m currently learning 
-  * React js
+  * Swift
   
 * 👯 I’m looking to collaborate on 
-  * Building big projects in a company with team of developers
   * Building great APIs 
   * Making the world a better place
 
 * 💬 Ask me about 
   * Django
   * Flask
-  * Web Automation (Bots)
+  * Web Automation
   * Any other thing you want to ask
   
 * 📫 How to reach me
@@ -50,7 +49,3 @@ Here are some ideas to get you started:
   * Love music :musical_note: but i don't know how to dance :smile:
   * I'm a beliver
   * Dream chaser.
-
-
-
-Please let me know how I can help you or you can help me either :heart:
