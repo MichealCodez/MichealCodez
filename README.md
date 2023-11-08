@@ -43,9 +43,9 @@ Here are some ideas to get you started:
   * [WhatsApp](https://wa.me/message/7IHNGJG2O42HF1)
   
 * ⚡ Fun facts
-  * Love playing football if I'm not coding
+  * Plays chess
   * Like people with good sense of reasoning
-  * Love pushing out solutions from my head :smile:
+  * Love to pushing out solutions from my head :smile:
   * Love music :musical_note: but i don't know how to dance :smile:
   * I'm a beliver
   * Dream chaser.
