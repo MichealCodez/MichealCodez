@@ -7,7 +7,7 @@
 
 
 ### What do I do? 
-* I’m a freelancer Software engineer with expertise in the following 
+* Provides Software Solutions
 
   * Full Stack dev
   * Automation
