@@ -48,4 +48,3 @@ Here are some ideas to get you started:
   * Love to push out solutions from my head :smile:
   * Love music :musical_note: but i don't know how to dance :smile:
   * I'm a beliver
-  * Dream chaser.
