@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 * ⚡ Fun facts
   * Plays chess
   * Like people with good sense of reasoning
-  * Love to pushing out solutions from my head :smile:
+  * Love to push out solutions from my head :smile:
   * Love music :musical_note: but i don't know how to dance :smile:
   * I'm a beliver
   * Dream chaser.
