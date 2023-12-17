@@ -18,7 +18,7 @@
 
 ### 🤙🏾 Hit me up @ [Biodrop](https://www.biodrop.io/MichealCodez)
 
-💬 Ask me about anything, I really want to know what you're upto😀
+💬 Ask me anything, I want to know what you're upto✊🏾
 
 
 ### 👨🏾‍💻 I do
