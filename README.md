@@ -14,10 +14,9 @@
 💬 Ask me about anything, I really want to know what you're upto😀
 
 
-### What do I do? 
+### I do
 
-* Provides Software Solutions
-  * Full Stack dev
+  * Web developement
   * Automation
   * Web scraping 
   * Machine learning 
