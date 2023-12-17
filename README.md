@@ -25,7 +25,7 @@
   * Web scraping 
   * Machine learning 
 
-<img align="left" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=michealcodez&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="michealcodez" />
+<img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=michealcodez&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="michealcodez" />
 
 <!--
 **MichealDavid1/MichealDavid1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
