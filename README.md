@@ -25,20 +25,20 @@
 Here are some ideas to get you started:
 --> 
 
-* 🔭 I’m currently @ [Fantastic 7](https://f7team.com) working on
+### 🔭 I’m currently @ [Fantastic 7](https://f7team.com) working on
   
   * [Autostell](https://autostell.com) 
   
-* 🌱 I’m currently learning
+### 🌱 I’m currently learning
   
   * Swift
   
-* 👯 I’m looking to collaborate on
+### 👯 I’m looking to collaborate on
   
   * Building great stuffs
   * Making the world a better place
   
-* ⚡ Fun facts
+### ⚡ Fun facts
   
   * I'm a beliver
   * Plays chess
