@@ -1,5 +1,5 @@
 
-<iframe src="https://gifer.com/embed/DXKg" width=480 height=360.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ### Hi there 👋🏾
 
@@ -50,3 +50,12 @@ Here are some ideas to get you started:
   * Like people with good sense of reasoning
   * Love to push out solutions from my head :smile:
   * Love music :musical_note: but i don't know how to dance :smile:
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/michealcodes"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="michealcodes" /></a></p><br><br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=michealcodez&show_icons=true&locale=en&layout=compact" alt="michealcodez" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=michealcodez&show_icons=true&locale=en" alt="michealcodez" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=michealcodez&" alt="michealcodez" /></p>
