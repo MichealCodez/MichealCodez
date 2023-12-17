@@ -14,7 +14,7 @@
 💬 Ask me about anything, I really want to know what you're upto😀
 
 
-### I do
+### 👨🏾‍💻 I do
 
   * Web developement
   * Automation
