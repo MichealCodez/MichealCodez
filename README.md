@@ -13,8 +13,6 @@
 
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="html"/><span>  </span><img src="https://img.shields.io/badge/react-3670A0?style=for-the-badge&logo=react&logoColor=ffdd54" alt="html"/><span>  </span>
 
-<img align="left" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=michealcodez&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="michealcodez" />
-
 ### 🤙🏾 Hit me up @ [Biodrop](https://www.biodrop.io/MichealCodez)
 
 💬 Ask me about anything, I really want to know what you're upto😀
@@ -27,6 +25,7 @@
   * Web scraping 
   * Machine learning 
 
+<img align="left" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=michealcodez&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="michealcodez" />
 
 <!--
 **MichealDavid1/MichealDavid1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
