@@ -31,20 +31,14 @@ Here are some ideas to get you started:
   * Building great APIs 
   * Making the world a better place
 
-* 💬 Ask me about 
-  * Django
-  * Flask
-  * Web Automation
-  * Any other thing you want to ask
+* 💬 Ask me about anything related to my Tech Stack
   
 * 📫 How to reach me
-  * [Linktr](https://linktr.ee/michealcodes)
-  * [Twitter](https://twitter.com/MichealCodes)
-  * [WhatsApp](https://wa.me/message/7IHNGJG2O42HF1)
+  * [Biodrop](https://biodrop.io/michealcodez)
   
 * ⚡ Fun facts
+  * I'm a beliver
   * Plays chess
   * Like people with good sense of reasoning
   * Love to push out solutions from my head :smile:
   * Love music :musical_note: but i don't know how to dance :smile:
-  * I'm a beliver
