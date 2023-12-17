@@ -42,13 +42,13 @@
  
 ### ⚡ Fun facts
 
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=michealcodez&&theme=tokyonight" alt="michealcodez" />
-
   * I'm a beliver
   * Plays chess
   * Like people with good sense of reasoning
   * Love to push out solutions from my head :smile:
   * Love music :musical_note: but i don't know how to dance :smile:
+
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=michealcodez&&theme=tokyonight" alt="michealcodez" />
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/michealcodes"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="michealcodes" /></a></p><br><br>
