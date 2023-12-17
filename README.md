@@ -21,20 +21,19 @@
 Here are some ideas to get you started:
 --> 
 
-* 🔭 I’m currently working on 
-  * Autostell 
+* 🔭 I’m currently @ [Fantastic 7](https://f7team.com) working on
+  * [Autostell](https://autostell.com) 
   
 * 🌱 I’m currently learning 
   * Swift
   
 * 👯 I’m looking to collaborate on 
-  * Building great APIs 
   * Making the world a better place
 
 * 💬 Ask me about anything related to my Tech Stack
   
 * 📫 How to reach me
-  * [Biodrop](https://biodrop.io/michealcodez)
+  * [Biodrop](https://www.biodrop.io/MichealCodez)
   
 * ⚡ Fun facts
   * I'm a beliver
