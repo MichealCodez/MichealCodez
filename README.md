@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/michealcodes"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="michealcodes" /></a></p><br><br>
 
-[![Micheal's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=michealcodez&&theme=xcode)](https://github.com/michealcodez)
+<p><img align="left" src="https://activity-graph.herokuapp.com/graph?username=michealcodez&&theme=xcode" alt="michealcodez" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=michealcodez&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="michealcodez" /></p>
 
