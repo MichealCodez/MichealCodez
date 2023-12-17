@@ -39,7 +39,7 @@
   
   * Building great stuffs
   * Making the world a better place
-<br></br>
+<br align="right"></br>
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=michealcodez&&theme=tokyonight" alt="michealcodez" />
 
 ### ⚡ Fun facts
