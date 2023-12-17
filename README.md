@@ -55,8 +55,7 @@ Here are some ideas to get you started:
 <p><a href="https://www.buymeacoffee.com/michealcodes"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="michealcodes" /></a></p><br><br>
 <p></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=michealcodez&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="michealcodez" /></p>
-<p></p>
-
+<br></br>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=michealcodez&show_icons=true&locale=en&theme=tokyonight" alt="michealcodez" />
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=michealcodez&&theme=tokyonight" alt="michealcodez" />
