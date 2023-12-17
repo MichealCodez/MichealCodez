@@ -6,9 +6,11 @@
 
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="html"/><span>  </span><img src="https://img.shields.io/badge/react-3670A0?style=for-the-badge&logo=react&logoColor=ffdd54" alt="html"/><span>  </span>
 
-🤙🏾 Hit me up @ [Biodrop](https://www.biodrop.io/MichealCodez)
+
+### 🤙🏾 Hit me up @ [Biodrop](https://www.biodrop.io/MichealCodez)
 
 💬 Ask me about anything, I really want to know what you're upto😀
+
 
 ### What do I do? 
 
@@ -27,16 +29,19 @@ Here are some ideas to get you started:
 
 ### 🔭 I’m currently @ [Fantastic 7](https://f7team.com) working on
   
-  * [Autostell](https://autostell.com) 
+  * [Autostell](https://autostell.com)
+    
   
 ### 🌱 I’m currently learning
   
   * Swift
+    
   
 ### 👯 I’m looking to collaborate on
   
   * Building great stuffs
   * Making the world a better place
+    
   
 ### ⚡ Fun facts
   
