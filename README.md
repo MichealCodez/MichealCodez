@@ -6,9 +6,13 @@
 
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="html"/><span>  </span><img src="https://img.shields.io/badge/react-3670A0?style=for-the-badge&logo=react&logoColor=ffdd54" alt="html"/><span>  </span>
 
-### What do I do? 
-* Provides Software Solutions
+🤙🏾 Hit me up @ [Biodrop](https://www.biodrop.io/MichealCodez)
 
+💬 Ask me about anything, I really want to know what you're upto😀
+
+### What do I do? 
+
+* Provides Software Solutions
   * Full Stack dev
   * Automation
   * Web scraping 
@@ -22,20 +26,20 @@ Here are some ideas to get you started:
 --> 
 
 * 🔭 I’m currently @ [Fantastic 7](https://f7team.com) working on
+  
   * [Autostell](https://autostell.com) 
   
-* 🌱 I’m currently learning 
+* 🌱 I’m currently learning
+  
   * Swift
   
-* 👯 I’m looking to collaborate on 
-  * Making the world a better place
-
-* 💬 Ask me about anything related to my Tech Stack
+* 👯 I’m looking to collaborate on
   
-* 📫 How to reach me
-  * [Biodrop](https://www.biodrop.io/MichealCodez)
+  * Building great stuffs
+  * Making the world a better place
   
 * ⚡ Fun facts
+  
   * I'm a beliver
   * Plays chess
   * Like people with good sense of reasoning
