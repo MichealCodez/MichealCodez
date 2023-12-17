@@ -1,9 +1,5 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=michealcodez&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="michealcodez" /></p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=michealcodez&show_icons=true&locale=en&theme=tokyonight" alt="michealcodez" />
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=michealcodez&&theme=tokyonight" alt="michealcodez" />
 
 <p align="left"> <a href="https://twitter.com/michealcodes" target="blank"><img src="https://img.shields.io/twitter/follow/michealcodes?logo=twitter&style=for-the-badge" alt="michealcodes" /></a> </p>
 
@@ -17,7 +13,7 @@
 
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="html"/><span>  </span><img src="https://img.shields.io/badge/react-3670A0?style=for-the-badge&logo=react&logoColor=ffdd54" alt="html"/><span>  </span>
 
-
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=michealcodez&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="michealcodez" />
 ### 🤙🏾 Hit me up @ [Biodrop](https://www.biodrop.io/MichealCodez)
 
 💬 Ask me about anything, I really want to know what you're upto😀
