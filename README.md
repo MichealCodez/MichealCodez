@@ -28,12 +28,6 @@
   * Machine learning
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=michealcodez&show_icons=true&locale=en&theme=tokyonight" alt="michealcodez" />
-<!--
-**MichealDavid1/MichealDavid1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
---> 
-    
   
 ### 🌱 I’m currently learning
   
@@ -57,4 +51,3 @@ Here are some ideas to get you started:
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/michealcodes"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="michealcodes" /></a></p><br><br>
-<p></p>
