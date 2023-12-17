@@ -39,10 +39,11 @@
   * Building great stuffs
   * Making the world a better place
 
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=michealcodez&&theme=tokyonight" alt="michealcodez" />
  
 ### ⚡ Fun facts
-  
+
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=michealcodez&&theme=tokyonight" alt="michealcodez" />
+
   * I'm a beliver
   * Plays chess
   * Like people with good sense of reasoning
