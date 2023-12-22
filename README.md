@@ -44,9 +44,9 @@
 
 ### ⚡ Fun facts
 
-  * I'm a beliver
-  * Plays chess
-  * Like people with good sense of reasoning
+  * I'm a beliver.
+  * Plays chess.
+  * Like people with good sense of reasoning.
 
 ### 🤙🏾 Connect With Me @ [Biodrop](https://www.biodrop.io/MichealCodez)
 <p align="left"> <a href="https://twitter.com/michealcodes" target="_blank"><img src="https://img.shields.io/twitter/follow/michealcodes?logo=twitter&style=for-the-badge" alt="michealcodes" /></a> </p>
