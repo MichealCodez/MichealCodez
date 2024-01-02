@@ -25,13 +25,11 @@
   
   * Swift
     
-  
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=michealcodez&show_icons=true&locale=en&theme=tokyonight" alt="michealcodez" />
 ### 👯 I’m looking to collaborate on
   
   * Building great stuffs
   * Making the world a better place
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=michealcodez&show_icons=true&locale=en&theme=tokyonight" alt="michealcodez" />
 
 ### ⚡ Fun facts
 
