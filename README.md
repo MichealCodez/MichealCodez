@@ -31,7 +31,7 @@
   * Building great stuffs
   * Making the world a better place
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=michealcodez&show_icons=true&locale=en&theme=tokyonight" alt="michealcodez" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=michealcodez&show_icons=true&locale=en&theme=tokyonight" alt="michealcodez" />
 
 ### ⚡ Fun facts
 
