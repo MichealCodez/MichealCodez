@@ -45,5 +45,5 @@
 <a href="https://www.buymeacoffee.com/michealcodes" target="blank"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="michealcodes" />
 </a>
 <br></br>
-<img align="right" src="https://komarev.com/ghpvc/?username=michealcodez&label=Profile%20views&color=0e75b6&style=flat" alt="michealcodez" />
+<img align="left" src="https://komarev.com/ghpvc/?username=michealcodez&label=Profile%20views&color=0e75b6&style=flat" alt="michealcodez" />
 
