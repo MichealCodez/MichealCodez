@@ -20,14 +20,6 @@
 
 💬 Ask me anything, I want to know what you're upto✊🏾
 
-
-### 👨🏾‍💻 I do
-
-  * Web developement
-  * Automation
-  * Web scraping 
-  * Machine learning
-
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=michealcodez&show_icons=true&locale=en&theme=tokyonight" alt="michealcodez" />
   
 ### 🌱 I’m currently learning
