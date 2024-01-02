@@ -40,11 +40,9 @@
 
 ### 🤙🏾 Connect With Me @ [Biodrop](https://www.biodrop.io/MichealCodez)
 <p align="left"> <a href="https://twitter.com/michealcodes" target="_blank"><img src="https://img.shields.io/twitter/follow/michealcodes?logo=twitter&style=for-the-badge" alt="michealcodes" /></a> </p>
-<div>
 <a href="https://www.buymeacoffee.com/michealcodes" target="blank"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="michealcodes" />
 </a>
-</div>
 <br></br>
+<img align="right" src="https://komarev.com/ghpvc/?username=michealcodez&label=Profile%20views&color=0e75b6&style=flat" alt="michealcodez" />
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=michealcodez&show_icons=true&locale=en&theme=tokyonight" alt="michealcodez" />
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=michealcodez&&theme=tokyonight" alt="michealcodez" />
-<img align="right" src="https://komarev.com/ghpvc/?username=michealcodez&label=Profile%20views&color=0e75b6&style=flat" alt="michealcodez" />
