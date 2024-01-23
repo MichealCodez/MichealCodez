@@ -1,5 +1,5 @@
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 <p align="left"> <a href="https://twitter.com/michealcodes" target="_blank"><img src="https://img.shields.io/twitter/follow/michealcodes?logo=twitter&style=for-the-badge" alt="michealcodes" /></a> </p>
@@ -14,8 +14,6 @@
 
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="html"/><span>  </span><img src="https://img.shields.io/badge/react-3670A0?style=for-the-badge&logo=react&logoColor=ffdd54" alt="html"/><span>  </span>
 
-<img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=michealcodez&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="michealcodez" />
-
 ### 🤙🏾 Hit me up @ [Biodrop](https://www.biodrop.io/MichealCodez)
 
 💬 Ask me anything, I want to know what you're upto✊🏾
@@ -29,7 +27,6 @@
   
   * Building great stuffs
   * Making the world a better place
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=michealcodez&show_icons=true&locale=en&theme=tokyonight" alt="michealcodez" />
 
 ### ⚡ Fun facts
 
@@ -39,7 +36,6 @@
 
 ### 🤙🏾 Connect With Me @ [Biodrop](https://www.biodrop.io/MichealCodez)
 <p align="left"> <a href="https://twitter.com/michealcodes" target="_blank"><img src="https://img.shields.io/twitter/follow/michealcodes?logo=twitter&style=for-the-badge" alt="michealcodes" /></a> </p>
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=michealcodez&&theme=tokyonight" alt="michealcodez" />
 <a href="https://www.buymeacoffee.com/michealcodes" target="blank"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="michealcodes" />
 </a>
 <br></br>
