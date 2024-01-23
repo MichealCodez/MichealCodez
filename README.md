@@ -1,7 +1,8 @@
 <!--
 <p align="center"><img alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></p>
--->
 <img src="https://github.com/MichealCodez/MichealCodez/assets/86353318/d5fe0660-012c-4a07-9e72-28646a4e1429" alt="Blue Pink Gradient Fashion Banner"/>
+-->
+<img src="https://github.com/MichealCodez/MichealCodez/assets/86353318/edd1c1d9-93c2-46f9-b234-e40edb9bd336" alt="Blue Pink Gradient Fashion Banner"/>
 
 <h1 align="center">Hi there 👋🏾</h1>
 
