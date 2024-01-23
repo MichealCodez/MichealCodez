@@ -1,8 +1,8 @@
 
-<img align="center" alt="Coding" width="800" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="center" alt="Coding" width="600" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-<p align="left"> <a href="https://twitter.com/michealcodes" target="_blank"><img src="https://img.shields.io/twitter/follow/michealcodes?logo=twitter&style=for-the-badge" alt="michealcodes" /></a> </p>
+<p align="center"> <a href="https://twitter.com/michealcodes" target="_blank"><img src="https://img.shields.io/twitter/follow/michealcodes?logo=twitter&style=for-the-badge" alt="michealcodes" /></a> </p>
 
 ### Hi there 👋🏾
 
