@@ -1,24 +1,61 @@
-<!--
-<p align="center"><img alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></p>
-<img src="https://github.com/MichealCodez/MichealCodez/assets/86353318/d5fe0660-012c-4a07-9e72-28646a4e1429" alt="Blue Pink Gradient Fashion Banner"/>
--->
-<img src="https://github.com/MichealCodez/MichealCodez/assets/86353318/edd1c1d9-93c2-46f9-b234-e40edb9bd336" alt="Blue Pink Gradient Fashion Banner"/>
+# 👋 Hi, I’m Micheal David
 
-<h1 align="center">Hi there 👋🏾</h1>
+🚀 **Freelance Software Engineer | Full-Stack Developer | Automation Expert**  
 
-<h2 align="center">I'm Micheal, Software Engineer.
+I specialize in building scalable **web applications, APIs, and automation solutions** for businesses across healthcare, automobile, and SaaS sectors.  
+I’m passionate about solving complex problems with clean code, cloud infrastructure, and AI-powered solutions.  
 
-<h1 align="center">Tech Stacks</h1>
+---
+
+## 🛠️ Tech Stack  
+
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=fff)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=fff)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)
+<!-- ![React Native](https://img.shields.io/badge/-React%20Native-20232A?logo=react&logoColor=61DAFB) -->
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=fff)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=ff9900)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=fff)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=fff)
+
+---
+
+## 📌 Featured Work  
+- 🦷 **Dental SaaS (Austria)** – Built a **multi-tenant SaaS platform** for dental practices using Django, PostgreSQL, and Bootstrap.  
+- 🚗 **Automobile Diagnostics (Canada)** – Developed a **real-time OBD-II → TCP/IP system** for remote car diagnosis and reprogramming.  
+- 📊 **AI for Healthcare** – Applied ML models for **Surgical Site Infection prediction** with SHAP-based explainability.  
+- ⚡ **Automation Projects** – Created end-to-end Android automation tools using **UIAutomator2 & Python** for businesses.  
+
+---
+
+## 🌱 Currently Exploring  
+- Building MVPs for SaaS products (**React + Django + AWS**)  
+- AI for Good: advocating for **responsible use of AI** in real-world applications  
+- Enhancing automation with **OCR + AI** for more reliable business workflows  
+
+---
+
+<!-- 
+## 📊 GitHub Stats  
+
 <p align="center">
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="html"/><span>  </span><img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="html"/><span>  </span><img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray" alt="html"/><span>  </span><img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="html"/><span>  </span> <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="html"/><span>  </span><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="html"/>
-<span>  </span> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="html"/><span>  </span><img src="https://img.shields.io/badge/react-3670A0?style=for-the-badge&logo=react&logoColor=ffdd54" alt="html"/><span>  </span>
+  <img src="https://github-readme-stats.vercel.app/api?username=MichealCodes&show_icons=true&theme=tokyonight" alt="GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichealCodes&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
 </p>
-<p align="center"> <a href="https://twitter.com/michealcodes" target="_blank"><img src="https://img.shields.io/twitter/follow/michealcodes?logo=twitter&style=for-the-badge" alt="michealcodes" /></a> </p>
-<!--
-### 🤙🏾 Connect With Me @ [Biodrop](https://www.biodrop.io/MichealCodez)
-
-<a align="center" href="https://www.buymeacoffee.com/michealcodes" target="blank"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="michealcodes" />
-</a>
-<br></br>
-<img align="left" src="https://komarev.com/ghpvc/?username=michealcodez&label=Profile%20views&color=0e75b6&style=flat" alt="michealcodez" />
 -->
+
+---
+
+## 📫 Let’s Connect  
+
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MichealCodes)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michealcodes)
+[![Upwork](https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01dbdbb24c7258b442)
+
+---
+
+⭐️ *If you like my work, consider following me or checking out my repositories!*  
+
