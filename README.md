@@ -6,7 +6,7 @@
 
 <h1 align="center">Hi there 👋🏾</h1>
 
-<h2 align="center">I'm Micheal, Software Engineer @ <a href="https://f7team.com">Fantastic 7</a>.
+<h2 align="center">I'm Micheal, Software Engineer.
 
 <h1 align="center">Tech Stacks</h1>
 <p align="center">
