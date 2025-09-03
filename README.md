@@ -1,6 +1,6 @@
-# 👋 Hi, I’m Micheal David
+# 👋🏾 Hi, I’m Micheal David
 
-🚀 **Freelance Software Engineer | Full-Stack Developer | Automation Expert**  
+**Freelance Software Engineer | Full-Stack Developer | Automation Expert**  
 
 I specialize in building scalable **web applications, APIs, and automation solutions** for businesses across healthcare, automobile, and SaaS sectors.  
 I’m passionate about solving complex problems with clean code, cloud infrastructure, and AI-powered solutions.  
